@@ -1,4 +1,4 @@
-Learning Perl Challenge: rhich
-==============================
+Learning Perl Challenges
+========================
 
-Found at http://www.learning-perl.com/2012/02/learning-perl-challenge-rhich/
+Found at http://www.learning-perl.com/challenges/
